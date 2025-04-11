@@ -10,4 +10,10 @@ Data for Sherlock et al. "Genomic data reveals cryptic diversity in the soda-lak
 
 ***
 
-xxx.xxx description
+SNP_data/snp_dataset_1.vcf.gz ddRAD-derived SNP genotype data, includes all 74 samples including outgroup samples
+
+SNP_data/snp_dataset_2.vcf.gz ddRAD-derived SNP genotype data, includes all only O. amphimelas samples.
+
+SNP_data/snp_dataset_2_ld_filtered.vcf.gz ddRAD-derived SNP genotype data, includes all only O. amphimelas samples, filtered for marker linkage.
+
+
