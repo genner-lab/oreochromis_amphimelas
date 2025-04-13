@@ -31,3 +31,13 @@ morphology/Classifier_Matrix.csv Metadata required for geometric morphometrics
 morphology/REPS_Error.tps First set of landmark data of O. amphimelas specimens used for testing for landmarking error
 
 morphology/OG_Error.tps Second set of landmark data of O. amphimelas specimens used for testing for landmarking error
+
+***
+
+**code**
+
+***
+
+MeristicAnalyses.R Meristic analysis R code
+
+***
