@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/964692677.svg)](https://doi.org/10.5281/zenodo.16697565)
+
 # Oreochromis amphimelas
 
 Population genetics and morphology of the Tanzanian cichlid fish Oreochromis amphimelas
